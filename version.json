@@ -1,4 +1,4 @@
 {
-  "version": "1.01",
-  "notas": "Correcao de travamento em portos movimentados"
+  "version": "1.02",
+  "notas": "Corrige travamento em portos cheios"
 }
