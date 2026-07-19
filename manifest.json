@@ -1,16 +1,16 @@
 {
   "name": "Micro Radar AIS",
-  "version": "1.00",
+  "version": "1.01",
   "home_assistant_domain": "",
   "new_install_prompt_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "bootloader.bin?v=1.00", "offset": 4096 },
-        { "path": "partitions.bin?v=1.00", "offset": 32768 },
-        { "path": "boot_app0.bin?v=1.00", "offset": 57344 },
-        { "path": "firmware.bin?v=1.00", "offset": 65536 }
+        { "path": "bootloader.bin?v=1.01", "offset": 4096 },
+        { "path": "partitions.bin?v=1.01", "offset": 32768 },
+        { "path": "boot_app0.bin?v=1.01", "offset": 57344 },
+        { "path": "firmware.bin?v=1.01", "offset": 65536 }
       ]
     }
   ]
